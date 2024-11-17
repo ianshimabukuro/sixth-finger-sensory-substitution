@@ -1,4 +1,4 @@
-# SixthFingerSSD
+# Sixth Finger Sensory Substitution Device
 Made at Biomechanics Lab, University of Tsukuba
 
 *by Ian Shimabukuro*
